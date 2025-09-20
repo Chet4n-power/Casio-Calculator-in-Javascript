@@ -1,0 +1,11 @@
+table
+{
+    width: 200px;
+    height: 400px;
+    background-color: gainsboro;
+}
+
+table tr td
+{
+    padding: 0px;
+}
